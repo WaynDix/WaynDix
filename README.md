@@ -22,5 +22,5 @@
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/WaynDix)
 [![telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/@wayndix/)
-[![instagram](https://img.shields.io/badge/Instagram-E4402F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wayndix/)
-[![tiktok](https://img.shields.io/badge/TikTok-ff0050?style=for-the-badge&logo=tiktok&logoColor=white)](https://t.me/wayndix)
+[![instagram](https://img.shields.io/badge/Instagram-E4402F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ikramov.wx/)
+[![tiktok](https://img.shields.io/badge/TikTok-ff0050?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@wayndix)
