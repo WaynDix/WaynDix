@@ -1,5 +1,5 @@
 ## hello, my name is Mikail
-<div style={{display: "flex", justifyContent: "space-between"}}>
+<div justify=space-between>
   <a href="https://github.com/wayndix">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wayndix&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wayndix&layout=compact&langs_count=7&theme=dracula"/>
