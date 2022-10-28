@@ -3,7 +3,7 @@
 ### Languages
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![typescript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=2146C7)
+![typescript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=007acc)
 
 ### Front-End Development
 
